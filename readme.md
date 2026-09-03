@@ -305,30 +305,40 @@ Kendala lainnya terjadi pada pengujian relay. Tegangan keluaran ESP32 sekitar 3,
 
 ## Skematik / Diagram Rangkaian
 
-Konfigurasi hubungan komponen yang digunakan pada praktikum secara sederhana adalah:
+Berikut merupakan skematik atau diagram rangkaian yang digunakan pada praktikum.
 
-```text
-<img width="468" height="430" alt="percobaan2" src="https://github.com/user-attachments/assets/65b5318a-aef4-4756-9085-e432c70f7929" />
-<img width="468" height="395" alt="percobaan1" src="https://github.com/user-attachments/assets/982bfe57-543d-4eba-a694-d70152291f8e" />
+<img width="468" height="430" alt="Percobaan 2" src="https://github.com/user-attachments/assets/65b5318a-aef4-4756-9085-e432c70f7929" />
 
+<img width="468" height="395" alt="Percobaan 1" src="https://github.com/user-attachments/assets/982bfe57-543d-4eba-a694-d70152291f8e" />
 
 ---
 
 ## Foto Proses Praktikum / Perangkaian
 
 Berikut merupakan dokumentasi proses perangkaian dan pelaksanaan praktikum.
-<img width="720" height="1280" alt="Percobaan1" src="https://github.com/user-attachments/assets/675bcb0d-2d7c-41bb-be36-d2c089c07d70" />
-<img width="720" height="1280" alt="Percobaan2" src="https://github.com/user-attachments/assets/61bfb432-71ef-40bf-bb92-e1afbf45819c" />
 
+<img width="720" height="1280" alt="Proses Perangkaian Percobaan 1" src="https://github.com/user-attachments/assets/675bcb0d-2d7c-41bb-be36-d2c089c07d70" />
+
+<img width="720" height="1280" alt="Proses Perangkaian Percobaan 2" src="https://github.com/user-attachments/assets/61bfb432-71ef-40bf-bb92-e1afbf45819c" />
+
+---
 
 ### Pengujian Sensor DHT11
-<img width="720" height="1280" alt="6ece34a1-4abd-466b-bf8b-fa2cfedf3805" src="https://github.com/user-attachments/assets/21fef781-bddd-4aea-860a-9a177bba5043" />
-<img width="720" height="1280" alt="ed21600b-7f86-4ae7-ba1a-5a3eacada16f" src="https://github.com/user-attachments/assets/05f548e2-259e-41fc-b392-13f3d4834dfc" />
 
+Berikut merupakan dokumentasi pengujian sensor DHT11 pada saat praktikum.
+
+<img width="720" height="1280" alt="Pengujian Sensor DHT11 1" src="https://github.com/user-attachments/assets/21fef781-bddd-4aea-860a-9a177bba5043" />
+
+<img width="720" height="1280" alt="Pengujian Sensor DHT11 2" src="https://github.com/user-attachments/assets/05f548e2-259e-41fc-b392-13f3d4834dfc" />
+
+---
 
 ### Hasil Serial Monitor
-<img width="374" height="276" alt="SerialMonitor1" src="https://github.com/user-attachments/assets/6fa24dac-ef57-4408-a5db-e3753cccf350" />
-<img width="510" height="289" alt="SerialMonitor2" src="https://github.com/user-attachments/assets/fcca4d16-056d-4299-b769-82180213630e" />
 
+Berikut merupakan hasil pembacaan sensor dan status aktuator yang ditampilkan melalui Serial Monitor.
+
+<img width="374" height="276" alt="Serial Monitor Percobaan 1" src="https://github.com/user-attachments/assets/6fa24dac-ef57-4408-a5db-e3753cccf350" />
+
+<img width="510" height="289" alt="Serial Monitor Percobaan 2" src="https://github.com/user-attachments/assets/fcca4d16-056d-4299-b769-82180213630e" />
 
 ---
