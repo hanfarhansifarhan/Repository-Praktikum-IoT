@@ -308,51 +308,27 @@ Kendala lainnya terjadi pada pengujian relay. Tegangan keluaran ESP32 sekitar 3,
 Konfigurasi hubungan komponen yang digunakan pada praktikum secara sederhana adalah:
 
 ```text
-             ESP32
-          ┌───────────┐
-          │           │
-GPIO 4 ───┤           ├──── DATA DHT11
-          │           │
-GND ──────┤           ├──── GND DHT11
-          │           │
-VCC ──────┤           ├──── VCC DHT11
-          │           │
-GPIO 26 ──┤           ├──── IN RELAY
-          │           │
-GND ──────┤           ├──── GND RELAY
-          └───────────┘
-```
+<img width="468" height="430" alt="percobaan2" src="https://github.com/user-attachments/assets/65b5318a-aef4-4756-9085-e432c70f7929" />
+<img width="468" height="395" alt="percobaan1" src="https://github.com/user-attachments/assets/982bfe57-543d-4eba-a694-d70152291f8e" />
 
-Dokumentasi skematik atau rangkaian dapat ditambahkan dengan format:
-
-![Skematik Rangkaian](images/skematik.jpg)
 
 ---
 
 ## Foto Proses Praktikum / Perangkaian
 
 Berikut merupakan dokumentasi proses perangkaian dan pelaksanaan praktikum.
+<img width="720" height="1280" alt="Percobaan1" src="https://github.com/user-attachments/assets/675bcb0d-2d7c-41bb-be36-d2c089c07d70" />
+<img width="720" height="1280" alt="Percobaan2" src="https://github.com/user-attachments/assets/61bfb432-71ef-40bf-bb92-e1afbf45819c" />
 
-### Proses Perangkaian
-
-![Proses Perangkaian](images/proses-perangkaian.jpg)
 
 ### Pengujian Sensor DHT11
+<img width="720" height="1280" alt="6ece34a1-4abd-466b-bf8b-fa2cfedf3805" src="https://github.com/user-attachments/assets/21fef781-bddd-4aea-860a-9a177bba5043" />
+<img width="720" height="1280" alt="ed21600b-7f86-4ae7-ba1a-5a3eacada16f" src="https://github.com/user-attachments/assets/05f548e2-259e-41fc-b392-13f3d4834dfc" />
 
-![Pengujian Sensor](images/pengujian-sensor.jpg)
 
 ### Hasil Serial Monitor
+<img width="374" height="276" alt="SerialMonitor1" src="https://github.com/user-attachments/assets/6fa24dac-ef57-4408-a5db-e3753cccf350" />
+<img width="510" height="289" alt="SerialMonitor2" src="https://github.com/user-attachments/assets/fcca4d16-056d-4299-b769-82180213630e" />
 
-![Hasil Serial Monitor](images/serial-monitor.jpg)
 
 ---
-
-## GIF / Video Demonstrasi
-
-Berikut merupakan dokumentasi ketika program dijalankan pada ESP32 dan sensor DHT11 melakukan pembacaan suhu serta kelembaban.
-
-![Demonstrasi Praktikum](images/demonstrasi.gif)
-
-Apabila dokumentasi menggunakan video, video demonstrasi dapat dilihat melalui tautan berikut:
-
-[Video Demonstrasi Praktikum](LINK_VIDEO_DEMONSTRASI)
